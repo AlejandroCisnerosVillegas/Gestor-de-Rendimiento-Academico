@@ -164,3 +164,5 @@ El proyecto ahora está funcionando en su entorno local. 🎉
 - Nombre de usuario: **_admin@gmail.com_**
 
 - Contraseña: **_12345_**
+
+Tambien puede **registrar un nuevo usuario** desde la interfaz de la aplicación.
