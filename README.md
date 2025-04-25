@@ -26,7 +26,7 @@ El sistema de registro de asignaturas y estudiantes simplifica la administració
 
 En resumen, el **"Gestor de Rendimiento Académico"** no solo mejora el acceso a la información y las calificaciones de los estudiantes, sino que también optimiza la gestión administrativa de la universidad, brindando una experiencia más completa y eficiente para toda la comunidad universitaria.
 
-**Consulta la versión preliminar del proyecto aquí:** [https://gestor-de-rendimiento-academico.com](https://www.alejandrovillegas.net/projects/project-03/index.html)
+**Consulta la versión preliminar del proyecto aquí:** [https://gestor-de-rendimiento-academico.com](https://www.alejandrovillegas.dev/projects/project-03/index.html)
 
 # 📌 Información del Proyecto
 
@@ -38,7 +38,7 @@ Este proyecto ha sido desarrollado como parte del portafolio de soluciones tecno
 
 - **Fecha de Desarrollo**: 15 de febrero de 2024
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 # Guía de Instalación y Configuración del Proyecto
 
